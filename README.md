@@ -10,6 +10,6 @@ This article does not produce new analysis software or code, all analysis is bas
 5. R code for selecting key species
 6. R code for identifing difference of features in groups
 7. R code for finding the key cut-off value of A. indistinctus for distinguishing HUA
-8. R code for co-occurance network analysis
+8. R code for co-occurrence network analysis
 9. R code for selecting functional pathways and metabolites associated with A. indistinctus
 10. R code for mediation analysis
