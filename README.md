@@ -5,7 +5,7 @@ This article does not produce new analysis software or code, all analysis is bas
 # Catalogue
 1. clinical data of discovery cohort
 2. clinical data of Guangzhou validation cohort
-3. quality control, taxonomy profiling and functional annotation for metagenomics data  (including code for fastp, bowtie2, metaphlan3 and humann3)
+3. quality control, taxonomy profiling and functional annotation for metagenomics data  (including code for fastp, bowtie2, metaphlan3, humann3 and kofamscan)
 4. R code for the α/β diversity
 5. R code for selecting key species
 6. R code for identifing difference of features in groups
